@@ -1,0 +1,118 @@
+body{
+    background-image: url("Nito.jpg");
+    background-repeat: no-repeat; 
+}
+.Nito{
+position: absolute;
+top: 70px;
+right: 80px;
+font-size: 25px;
+
+color: white;
+}
+.logo{
+position: relative;
+top: 50px;
+left: 530px;
+
+}
+h1{
+    position: relative;
+    top: 400px;
+    text-align: center;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+.textobase {
+    position: absolute;
+    top: 100px;
+    left: 70px;
+    color:white;
+    background-color: rgb(0, 0, 0, .5);
+    width: 1200px;
+    font-size: 17px;
+
+}   
+
+#menu{
+    position: absolute;
+    top: 0px;
+    left: 316px;
+    margin: 0;
+    padding: 0;
+    width: auto;
+    height: 30px;
+}
+#menu ul{
+    list-style-type: none;
+    margin: 0;
+}
+#menu ul li{
+        display: inline;
+        float: left;
+        padding:0px;
+        margin: 0;
+        width: 80px;
+        border-left: #ececec thin solid;
+        
+}
+#menu ul li  a{
+    display: block;
+    text-decoration: none;
+    padding: 10px;
+    background-color: rgb(0, 0, 0, .5);
+    font-family:sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+    box-shadow: 2px 2px 2px rgb(0, 0, 0);
+
+    
+}
+#menu ul li a:hover{
+    background-color: rgb(255, 255, 255);
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    border-bottom:3px solid rgb(0, 0, 0);
+}
+.TheWayofWhite{
+    position: absolute;
+    top: 385px;
+    left: 244px;
+    font-size: 20px;
+    color: white;
+}
+.Theway{
+    position: absolute;
+    top: 420px;
+    width: 500px;
+    left: 70px;
+    border: 3px solid rgb(255, 255, 255);
+    color: white;
+    background-color: rgb(0, 0, 0, .5);
+}
+.mt{
+    position: absolute;
+    top: 437px;
+    right: 280px;
+    color: white;
+    font-size: 20px;
+}
+.missao{
+    position: absolute;
+    top: 470px;
+    width: 500px;
+    right: 70px;
+    color: white;
+    background-color: rgb(0, 0, 0, .5);
+    border: 3px solid rgb(255, 255, 255);
+}
+.nito{
+    position: absolute;
+    top: 670px;
+    left: 70px;
+    width: 1200px;
+    color: white;
+    background-color: rgb(0, 0, 0, .5);
+}
+

@@ -1,0 +1,94 @@
+body{
+    background-image: url("Wallpaper.jpg");
+    v 
+}
+.logo{
+position: relative;
+top: 50px;
+left: 530px;
+
+}
+h1{
+    position: relative;
+    top: 400px;
+    text-align: center;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+.textobase {
+    position: absolute;
+    top: 100px;
+    left: 145px;
+    color:white;
+    background-color: rgb(0, 0, 0, .5);
+    border: 3px solid rgb(241, 119, 6);
+    width: 1000px;
+    
+
+}   
+
+#menu{
+    position: absolute;
+    top: 0px;
+    left: 316px;
+    margin: 0;
+    padding: 0;
+    width: auto;
+    height: 30px;
+}
+#menu ul{
+    list-style-type: none;
+    margin: 0;
+}
+#menu ul li{
+        display: inline;
+        float: left;
+        padding:0px;
+        margin: 0;
+        width: 80px;
+        border-left: #f88d01 thin solid;
+        
+}
+#menu ul li  a{
+    display: block;
+    text-decoration: none;
+    padding: 10px;
+    background-color: rgb(241, 119, 6);
+    font-family:sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+    box-shadow: 2px 2px 2px black;
+
+    
+}
+#menu ul li a:hover{
+    background-color: black;
+    text-decoration: none;
+    color: rgb(255, 115, 0);
+    border-bottom:3px solid rgb(241, 119, 6);
+}
+#bloquinhos{
+    position: absolute;
+    top: 550px;
+    left: 200px;
+    background-color: rgb(0, 0, 0, .5);
+    color: white;
+    border: 2px solid rgb(241, 119, 6);
+
+}
+.ds{
+position: absolute;
+top: 250px;
+left: 980px;
+    color: white;
+}
+.dswiki{
+    position: absolute;
+    top: 130px;
+    color: white;
+    left: 780px;
+}
+
+
+
